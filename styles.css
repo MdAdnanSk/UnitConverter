@@ -1,0 +1,16 @@
+
+.border_div{
+    border: 1px solid black;
+    margin: 100px 300px auto;
+    padding: 20px 50px;
+}
+
+.tab-pane{
+    padding-top: 20px;
+}
+
+.heading{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 30px;
+}
